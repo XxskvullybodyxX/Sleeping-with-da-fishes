@@ -22,7 +22,7 @@ some of the text is colored via HTML, ctrl + F white and change it to a differen
 					<i class="fas fa-play"></i>
 					<!--EMBED CONTAINER - COPY AND PASTE THE NUMBERS/LETTERS FROM A YOUTUBE URL IN "URLHERE" BELOW (EX: SBjQ9tuuTJQ) -->
 					<div class="card-img-overlay p-0 overflow-hidden" style="opacity:.01;">
-						<iframe class="card-img-overlay p-0" style="width:800%; height:800%; top:-200%; left:-200%;" src="https://www.youtube.com/embed/AEh9oHawbe0"></iframe>
+						<iframe class="card-img-overlay p-0" style="width:800%; height:800%; top:-200%; left:-200%;" src="https://www.youtube.com/embed/AEh9oHawbe0"/iframe>
 					</div>
 					<!--embed container end-->
 				</div>
