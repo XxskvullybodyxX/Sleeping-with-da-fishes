@@ -22,25 +22,25 @@ some of the text is colored via HTML, ctrl + F white and change it to a differen
 					<i class="fas fa-play"></i>
 					<!--EMBED CONTAINER - COPY AND PASTE THE NUMBERS/LETTERS FROM A YOUTUBE URL IN "URLHERE" BELOW (EX: SBjQ9tuuTJQ) -->
 					<div class="card-img-overlay p-0 overflow-hidden" style="opacity:.01;">
-						<iframe class="card-img-overlay p-0" style="width:800%; height:800%; top:-200%; left:-200%;" src="https://www.youtube.com/embed/URLHERE"></iframe>
+						<iframe class="card-img-overlay p-0" style="width:800%; height:800%; top:-200%; left:-200%;" src="https://www.youtube.com/embed/AEh9oHawbe0"></iframe>
 					</div>
 					<!--embed container end-->
 				</div>
 				<!-- MUSIC PLAYER END -->
 				<!-- MUSIC TITLE -->
-				<span class="mt-2"><B> SONG TITLE - ARTIST ໒꒱ ‧₊</B>˚</span>
+				<span class="mt-2"><B> ARE YOU READY - MAMMON ໒꒱ ‧₊</B>˚</span>
 				<!-- MUSIC TITLE END -->
 			</div>
 		</div>
 	</div>
 	<!-- SECOND BOX -->
-	<div class="card mx-auto" style="border:5px solid transparent;padding: 15px; border-image:url(https://i.pinimg.com/originals/bb/c1/7e/bbc17ecad554f47f825904947f45b1e7.gif) 5% stretch; border-image-outset:3px; background-image:url('https://i.pinimg.com/originals/c4/05/e5/c405e59f2114f36defe07f92a771d9a5.gif'); color:white; width:100%; max-width:800px;">
+	<div class="card mx-auto" style="border:5px solid transparent;padding: 15px; border-image:url('https://i.pinimg.com/originals/bb/c1/7e/bbc17ecad554f47f825904947f45b1e7.gif') 5% stretch; border-image-outset:3px; background-image:url('https://i.pinimg.com/originals/c4/05/e5/c405e59f2114f36defe07f92a771d9a5.gif'); color:white; width:100%; max-width:800px;">
 		<div class="row no-gutters">
 			<div class="p-1 col-lg-3">
 				<div class="justify-content-center" style="width:100%">
 					<i style="font-size:22px;color:#b4b4b4;font-weight:bold;"><br>
 						<!-- NAME - GO TO FONTAWESOME.COM TO SEE AVAILABLE FONT ICONS -->
-						<i class="fas fa-star"></i> USERNAME ! </i>
+						<i class="fas fa-star"></i> XXSKVULLYBODYXX ! </i>
 					<!-- NAME END -->
 				</div><br>
 				<!-- ICON -->
